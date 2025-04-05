@@ -16,3 +16,20 @@ To run this project, you will need to install the necessary dependencies. You ca
 ```bash
 pip install -r requirements.txt
 
+# Usage
+Clone the repository:
+
+```bash
+git clone https://github.com/EEDARANARAYANA/AI-Powered-Resume-Screener.git
+Navigate to the project folder:
+
+```bash
+cd AI-Powered-Resume-Screener
+
+## Run the Streamlit app:
+
+```bash
+streamlit run AI_screener.py
+
+This will start the web app, where you can upload resumes and a job description, and the app will rank the resumes based on their similarity to the job description.
+
